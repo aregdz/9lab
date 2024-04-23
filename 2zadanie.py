@@ -44,7 +44,6 @@ class Point:
         return f"Point({self.x}, {self.y})"
 
 
-# Пример использования класса Point
 if __name__ == "__main__":
     point1 = Point(3, 4)
     point2 = Point(6, 8)
